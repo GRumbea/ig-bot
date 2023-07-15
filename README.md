@@ -31,3 +31,9 @@ From here you can begin using any of the functions available, which are listed b
   <li>Remove Disqualified Usernames</li>
   <li>Like Username Posts</li>
 </ol>
+
+# Video Demo
+<a href="https://www.loom.com/embed/90fa56cefb36487ab99724a93f999455?sid=f89bdd88-7798-4bc5-b042-47e567fbe2d2" target="_blank">Click here to watch a video demo</a>
+
+<img src="https://github.com/GRumbea/ig-bot/blob/107e667f65374cf10f8f7a3a24076900a323f388/ig-bot.png" alt="demo image"/>
+
